@@ -1,5 +1,5 @@
 .holder{
 	display:grid;
-	grid-template-column:repeat(2 ,200px);
-	grid-template-row:repeat(2 ,200px);
+	grid-template-column:repeat(2, 100px);
+	grid-template-row:repeat(2, 100px);
 }
